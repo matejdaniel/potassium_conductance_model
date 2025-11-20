@@ -27,7 +27,7 @@ $$g(t) = g_{\infty} \left(1 - e^{-\frac{t}{\tau}} \right)^{n}$$
 
 Where:
 * $g_{\infty} = \left(\frac{V_m}{E^*}\right)^n$ is the steady-state conductance.
-* $\tau = \frac{\eta^*}{E^*}$ is the mechanical time constant.
+* $\tau = \frac{\eta^\star}{E^\star}$ is the mechanical time constant.
 * $E^*$ represents the membrane elasticity.
 * $\eta^*$ represents the membrane viscosity.
 * $n=4$ represents the four subunits of the potassium channel.
